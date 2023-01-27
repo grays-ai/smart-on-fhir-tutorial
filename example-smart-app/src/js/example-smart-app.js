@@ -45,7 +45,7 @@
           var p = defaultPatient();
           p.birthdate = patient.birthDate;
           p.gender = gender;
-          p.fname = fname;
+          p.fname = "jonah";
           p.lname = lname;
           p.height = getQuantityValueAndUnit(height[0]);
 
